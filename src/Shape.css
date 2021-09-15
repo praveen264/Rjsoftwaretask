@@ -1,0 +1,21 @@
+.Shape
+{
+    height: 150px;
+    /* width: 100px; */
+    margin-top: 10%;
+    position: absolute;
+    margin-left: 45%;
+    padding: 6%;
+    /* margin: 9%; */
+}
+button
+{position: absolute;
+    margin-top: 38%;
+    margin-left: 51%;
+}
+.message
+{
+    position: absolute;
+    margin-top: 39%;
+    margin-left: 42%;
+}
